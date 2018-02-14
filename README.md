@@ -10,7 +10,14 @@ Install with [npm](https://www.npmjs.com/):
 
 ## Usage
 
-- [ ] Write usage instructions
+### Inject
+
+- function:prepend
+- function:return
+- function:call:before
+- function:call:after
+- RUN_TIME
+
 
 ## Changelog
 
